@@ -1,0 +1,43 @@
+body {
+    font-size: 14px;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.row {
+    margin-bottom:50px;
+    max-width: 1200px
+}
+
+.icon {
+    text-align:center;
+}
+
+.icon .glyphicon {
+    margin-bottm: 10px;
+    font-size: 40px;
+    color: #777;
+}
+
+.content h2 {
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+
+img {
+    padding-bottom: 50px;
+}
+
+footer {
+    border-top: 1px solid#e7e7e7;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.copyright {
+    padding: 20px 0;
+    fon-size: 12px;
+    color: #666;
+}
