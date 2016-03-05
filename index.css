@@ -26,6 +26,10 @@ body {
     padding-bottom: 15px;
 }
 
+.repository {
+    text-align: center;
+}
+
 img {
     padding-bottom: 50px;
 }
